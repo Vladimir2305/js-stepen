@@ -1,0 +1,21 @@
+@import "compass/reset";
+body {
+	background: #999;
+}
+.center {
+	width: 500px;
+	padding: 10px;
+	margin: auto;
+	background: #fc0;
+}
+
+label {
+	display: block;
+	margin-top: 10px;
+}
+input[type=number] {
+	display: block;
+}
+input[type=button] {
+	margin-top: 25px;
+}
